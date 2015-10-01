@@ -36,10 +36,10 @@ public class Spacemap implements Tick {
     }
 
     /*
-         * Used to store the npcs information when the spacemap is created in QueryManager.
-         * instead of creating X npcs directly in QueryManager, maybe the spacemap is always empty
-         * and wastes memory...
-         */
+     * Used to store the npcs information when the spacemap is created in QueryManager.
+     * instead of creating X npcs directly in QueryManager, maybe the spacemap is always empty
+     * and wastes memory...
+     */
     private JSONArray npcsJSON;
 
     /**
