@@ -30,7 +30,7 @@ public class Launcher {
      * Prints the console header
      */
     private static void sendHeader() {
-        System.out.println("Project X | Emulator v0.1");
+        System.out.println("Project X | Emulator v0.2");
         System.out.println("Developed by Yuuki");
         System.out.println(Console.LINE_MINUS);
     }
