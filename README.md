@@ -12,8 +12,8 @@ BlackEye Emulator uses a number of free libraries to work properly:
 
 The current members of BlackEye's team are:
 
-* [Manulaiko][ManuEpvp] - Main CMS and Web developer. The frontend part of BlackEye.
-* [Yuuki][YuukiEpvp] - Main Server developer. The backend part of BlackEye.
+* [Manulaiko][ManuEpvp] - Main CMS and Web developer.
+* [Yuuki][YuukiEpvp] - Main Server developer.
 
 ### Contact
 
@@ -25,4 +25,4 @@ If you have any question or idea for the project you can contact us by clicking 
    [MySQL Connector]: <https://www.mysql.com/products/connector/>
    [JSON library]: <http://www.json.org/java/>
    [ManuEpvp]: <http://www.elitepvpers.com/forum/members/5969571-manulaiko3-0.html>
-   [YuukiEpvp]: <http://www.elitepvpers.com/forum/members/5969571-manulaiko3-0.html>
+   [YuukiEpvp]: <http://www.elitepvpers.com/forum/members/6421015-s7k-yuuki.html>
